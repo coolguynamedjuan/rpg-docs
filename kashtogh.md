@@ -1,7 +1,7 @@
 # The Kashtogh People
 (Placeholder name for the "Desert Argonians")
 
-![Tamriel Rebuilt Concept Art for Argonians](/images/argonian01.jpg)
+![Tamriel Rebuilt Concept Art for Argonians.](/images/argonian01.jpg)
 
 ## General Overview
 The Kashtogh are a reptilian species with a semi-nomadic society
@@ -95,3 +95,5 @@ Because the Kashtogh shed their skin and regenerate their vital
 organs annually, they live much longer than the other species on
 the continent, and the physical ramifications of aging affect them
 much less.
+
+[Back to Index](README.md)
