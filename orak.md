@@ -1,6 +1,5 @@
----
-title: The Kingdom of Orak
----
+# The Kingdom of Orak
+
 (Just a placeholder name lazily adapted from the ancient
 Mesopotamian "Uruk")
 
@@ -122,4 +121,4 @@ much less religious than the average citizen and view the priestly
 order as an obstacle to the political and economic reforms that
 would benefit them most.
 
-[Back to Index](index.html)
+[Back to Index](README.md)
