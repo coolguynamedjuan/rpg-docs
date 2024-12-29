@@ -3,7 +3,7 @@
 (Just a placeholder name lazily adapted from the ancient
 Mesopotamian "Uruk")
 
-![Rough map of the river valley where the Kingdom of Orak is found. The rivers originate in the mountains and flow out to the seas which creates an especially fertile and easily defensible territory in the southeast of the continent. This is just a sketch of the region and its biome; obviously the final version will probably be totally different.](/home/john/pictures/rpg/orak-rough-map.png)
+![Rough map of the river valley where the Kingdom of Orak is found. The rivers originate in the mountains and flow out to the seas which creates an especially fertile and easily defensible territory in the southeast of the continent. This is just a sketch of the region and its biome; obviously the final version will probably be totally different.](/images/orak-rough-map.png)
 
 ## General Overview
 
@@ -21,11 +21,11 @@ essentially mythological at this point, thousands of years after
 the ancient great war. I'm attaching a few pictures below to help
 envision the massive cities of Orak:
 
-![An artist's depiction of the real-life ancient city of Uruk. Cities are likely divided into districts, with temples and religious institutions in the most prominent and attractive locations.](/home/john/pictures/rpg/uruk-art.jpg)
+![An artist's depiction of the real-life ancient city of Uruk. Cities are likely divided into districts, with temples and religious institutions in the most prominent and attractive locations.](/images/uruk-art.jpg)
 
-![A recreation of Aztec architecture based on the city of Tenochtitlan -- which, interestingly enough, is currently Mexico City. Note the floating platforms used for agriculture. Orak likely does not have a need for such infrastructure because of the fertile soil near the rivers, but it could be used in some lakeside areas closer to mountains, maybe?](/home/john/pictures/rpg/aztec-architecture.jpg)
+![A recreation of Aztec architecture based on the city of Tenochtitlan -- which, interestingly enough, is currently Mexico City. Note the floating platforms used for agriculture. Orak likely does not have a need for such infrastructure because of the fertile soil near the rivers, but it could be used in some lakeside areas closer to mountains, maybe?](/images/aztec-architecture.jpg)
 
-![One of the many entrances to the Karnak temple complex in the ancient city of Thebes in Egypt. Thebes was home to a variety of temples and tomb complexes that we can draw ideas from. I like the idea of having massive networks of catacombs (maybe even a cult of necromancers) under the cities.](/home/john/pictures/rpg/entrance-to-karnak-temple.jpg)
+![One of the many entrances to the Karnak temple complex in the ancient city of Thebes in Egypt. Thebes was home to a variety of temples and tomb complexes that we can draw ideas from. I like the idea of having massive networks of catacombs (maybe even a cult of necromancers) under the cities.](/images/entrance-to-karnak-temple.jpg)
 
 ## History/Background
 
