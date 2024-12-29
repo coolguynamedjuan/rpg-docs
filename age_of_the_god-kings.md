@@ -36,7 +36,7 @@
   But of course after the war and fall of the Kingdoms the cultures are diffused and adopted and adapted all across this continent.
 
 
-  Religion
+  ## Religion
 
   I also have an idea where “Gods” exist in the current of life that flows through the ley-lines but they have little contact with people but more subtly influence events.
 
