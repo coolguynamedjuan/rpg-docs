@@ -1,4 +1,4 @@
-Prehistory: Age of the God-Kings
+# Prehistory: Age of the God-Kings
 
 * Three great kingdoms rise up after three people blessed with unrivaled prowess in magic. These three use their unrivaled knowledge and power to create three mighty Kingdoms.  
 * To the north in a large dark forest the Seelie/Edda live in cities enchanted in such a way that unless invited you would never be able to make your way through the dark forest to reach the carved oaken gates of their cities  
@@ -7,7 +7,7 @@ Prehistory: Age of the God-Kings
 * There was a fourth kingdom not led by any mighty King but led itself a great coalition of Island city-states had formed a union hoping to be able to govern themselves with no self-serving God-king at the helm.![][image1]  
 * Shitty visualisation of what the continent 2 of the God-Kings are located
 
-The Fall of the 3 great Kingdoms
+## The Fall of the 3 great Kingdoms
 
 * After a long period spanning many generations of people the power of the God-Kings waned and their empires with them and after years of relative peace the Kingdoms turned on eachother each holding blame or conspiracy towards the other two believing them to be the reason for their waning power and collapsing empires.  
 * The Woad-men of the west for the first time in hundreds of years sailed to the east and invaded the plains that lay between the Mysterious dark forest and the Opal Desert This event ignited an all out war between the Three God-Kings.  
