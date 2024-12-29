@@ -1,6 +1,8 @@
 # The Ugun People
 (Placeholder name for the Ape-People)
+
 ![Image](/images/imga-concept-art.png)
+
 ## General Overview
 The Ugun are an exceptionally intelligent race of bipedal ape-like
 hominids indigenous to the large continent west of our game's
