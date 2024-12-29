@@ -8,7 +8,7 @@ The Ugun are an exceptionally intelligent race of bipedal ape-like
 hominids indigenous to the large continent west of our game's
 setting. In the previous two centuries, they have formed a massive
 and complex republic which has successfully out-competed their
-tribal neighbors (various western species of elves, orcs, and
+tribal neighbors (various western species of elves, orcs, cat-people and
 lizard-people) for territory and resources. Fifty years prior to
 the game's setting, the Ugun Republic began establishing trading
 outposts and settler-colonies on the frontiers of its borders,
