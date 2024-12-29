@@ -1,6 +1,6 @@
----
-title: The Eddasill Alliance
----
+
+# The Eddasill Alliance
+
 (Placeholder name adapted from "Seelie/Edda")
 
 ![Rough map of the territory of the Eddasill Alliance, stretching across the continent's northern peninsula to the west of a rugged mountain range. The majority of settlements are located along the river networks in the Dark Forest, with a significant number located in the semi-forested tundra to the north.](/home/john/pictures/rpg/eddasill-rough-map.png)
@@ -105,4 +105,4 @@ stops supporting them. Therefore, political power in Eddasill
 society is largely reinforced by each clan councillor's ability to
 maintain the support of their constituents at home.
 
-[Back to Index](index.html)
+[Back to Index](README.rmd)
