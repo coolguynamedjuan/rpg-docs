@@ -1,9 +1,7 @@
----
-title: Index
----
+# RPG DOCUMENTATION
 
 ## Contents
 
-- [The Edasill Alliance](eddasill.rmd)
-- [The Kingdom of Orak](orak.rmd)
-- [Prehistory: Age of the God-Kings](prehistory1.rmd)
+- [The Edasill Alliance](eddasill.md)
+- [The Kingdom of Orak](orak.md)
+- [Prehistory: Age of the God-Kings](age_of_the_god-kings.md)
