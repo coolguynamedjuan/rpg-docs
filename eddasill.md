@@ -105,4 +105,4 @@ stops supporting them. Therefore, political power in Eddasill
 society is largely reinforced by each clan councillor's ability to
 maintain the support of their constituents at home.
 
-[Back to Index](README.rmd)
+[Back to Index](README.md)
